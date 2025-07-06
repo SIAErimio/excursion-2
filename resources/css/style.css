@@ -2,7 +2,17 @@ body {
     background-color: black;
     text-align: center;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+
+.header--main {
     color: white;
+    font-size: 50px;
+    font-weight: normal;
+}
 
-
+.link--cta {
+    font-weight: normal;
+    font-size: 16px;
+    color:aquamarine;
 }
